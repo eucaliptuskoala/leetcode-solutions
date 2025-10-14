@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+![alt text](image.png)
+
 Repo structure:
 - easy/, medium/
 - each challenge folder contains:
